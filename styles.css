@@ -1,0 +1,32 @@
+/*************************** TAG SELECTORS***************************/
+h1{
+  color: blue;
+  font-size: 50px;
+}
+p{
+  color: green;
+}
+img: hover {
+  background-color: gold;
+}
+body{}
+h3{
+  color: chocolate;
+}
+
+
+
+
+/***************************CLASS SELECTORS***************************/
+.quran{
+  background-color: green;
+}
+
+.circular{
+  border-radius: 50%;
+}
+
+/***************************ID SELECTORS***************************/
+#heading{
+  color: blue;
+}
